@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Twitter
+
+- https://twitter.com/ryysud
+
+#### Qiita
+
+- https://qiita.com/ryysud
+
+#### Speakerdeck
+
+- https://speakerdeck.com/ryysud
+
+#### Blog
+
+- https://reboooot.net
