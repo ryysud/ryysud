@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **ryysud/ryysud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [X](https://x.com/ryysud)
-- [Qiita](https://qiita.com/ryysud)
-- [Speaker Deck](https://speakerdeck.com/ryysud)
-- [Blog](https://reboooot.net)
-- [LinkedIn](https://www.linkedin.com/in/ryuma-yoshida-398a2917b/)
+## Where to find me
 
-Contact me on X or LinkedIn.
+- [LinkedIn](https://www.linkedin.com/in/ryuma-yoshida-398a2917b/) - Professional profile
+- [X](https://x.com/ryysud) - Daily thoughts on Kubernetes, Cloud Native, and Platform Engineering (mostly in Japanese)
+- [Qiita](https://qiita.com/ryysud) - Technical articles in Japanese
+- [Blog](https://reboooot.net) - Archive of my past writing on Cloud Native and infrastructure
+- [Speaker Deck](https://speakerdeck.com/ryysud) - Slides from my conference talks and meetups
+
+## Contact
+
+Feel free to reach out via X (DM) or LinkedIn
