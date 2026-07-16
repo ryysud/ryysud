@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [Twitter](https://twitter.com/ryysud)
+- [X](https://x.com/ryysud)
 - [Qiita](https://qiita.com/ryysud)
 - [Speaker Deck](https://speakerdeck.com/ryysud)
 - [Blog](https://reboooot.net)
+- [LinkedIn](https://www.linkedin.com/in/ryuma-yoshida-398a2917b/)
+
+Contact me on X or LinkedIn.
